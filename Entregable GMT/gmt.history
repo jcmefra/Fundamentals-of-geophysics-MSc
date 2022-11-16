@@ -1,8 +1,0 @@
-# GMT 6 Session common arguments shelf
-BEGIN GMT 6.4.0
-B	xa3g3ya3g3+glightred+tMapa de anomalía magnética
-J	P
-Jd	d0/-70/-90/-49/1:50000000
-R	-180/180/-90/-50
-@L	1
-END
